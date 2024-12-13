@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi there 👋 I'm Aishwarya!
 
-<!--
-**Aishwarya2629/Aishwarya2629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Graduate in Computer Science and Engineering (CSE), specializing in Artificial Intelligence and Machine Learning (AI & ML).
+😄 Pronouns: She/Her
+💻 Software Developer with hands-on experience in building deep learning models, including a Plant Disease Detection project leveraging CNNs and ML algorithms.
+🚀 Aiming to contribute to impactful AI solutions.
+🌟 Aspiring AI Engineer with a keen interest in working with industry leaders like Google and Microsoft.
 
-Here are some ideas to get you started:
+📚 Skills:
+Programming: Python, SQL and Java
+Tools: TensorFlow, Keras, Pandas, Matplotlib, NumPy, PyTorch, Scikit-Learn, SeaBorn
+Expertise: Machine Learning, Deep Learning, and Data Analysis
+Platforms: VS Code, Jupyter, Google Collab, Git/Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Passionate about solving real-world problems through technology and continuously expanding my knowledge in AI.
+
+🔗 Connect with me:
+[![LinkedIn] : (https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/aishwarya-bazzurla/)
+ 📫 Email: aishwaryabazzurla2002@gmail.com
+
+🌱 "Always learning, always building."
