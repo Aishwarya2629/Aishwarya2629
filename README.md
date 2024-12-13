@@ -15,9 +15,9 @@ Platforms: VS Code, Jupyter, Google Collab, Git/Github
 
 📈 Passionate about solving real-world problems through technology and continuously expanding my knowledge in AI.
 
-🔗 Connect with me:
+ Connect with me:
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [https://www.linkedin.com/in/aishwarya-bazzurla/](https://www.linkedin.com/in/aishwarya-bazzurla/)
- 📫 Email: aishwaryabazzurla2002@gmail.com
+🔗LinkedIn: www.linkedin.com/in/aishwarya-bazzurla/
+📫 Email: aishwaryabazzurla2002@gmail.com
 
 🌱 "Always learning, always building."
